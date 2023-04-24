@@ -1,1 +1,1 @@
-# Slider-update_Multiple-upload_Ajax-practice_Ckeditor
+Homework for Wednesday (26.04.2023)
