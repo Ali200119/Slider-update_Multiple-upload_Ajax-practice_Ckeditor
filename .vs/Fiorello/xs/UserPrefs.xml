@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{CC869C16-59DA-4429-93BA-19B94EDD971C}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Fiorello PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Fiorello/Views/Shared/_ValidationScriptsPartial.cshtml">
+    <Files>
+      <File FileName="Fiorello/Areas/Admin/Controllers/SliderInfoController.cs" Line="22" Column="61" />
+      <File FileName="Fiorello/Areas/Admin/Views/SliderInfo/Create.cshtml" Line="35" Column="51" />
+      <File FileName="Fiorello/Views/Shared/_ValidationScriptsPartial.cshtml" Line="2" Column="95" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Fiorello" expanded="True">
+            <Node name="Fiorello" expanded="True">
+              <Node name="Areas" expanded="True">
+                <Node name="Admin" expanded="True">
+                  <Node name="Controllers" expanded="True" />
+                  <Node name="Views" expanded="True">
+                    <Node name="BlogPost" expanded="True" />
+                    <Node name="SliderInfo" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="Shared" expanded="True">
+                  <Node name="_ValidationScriptsPartial.cshtml" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

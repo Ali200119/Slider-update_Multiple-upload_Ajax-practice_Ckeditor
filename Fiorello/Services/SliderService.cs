@@ -28,9 +28,20 @@ namespace Fiorello.Services
             return await _context.Sliders.FirstOrDefaultAsync(s => s.Id == id);
         }
 
+        public async Task<IEnumerable<SliderInfo>> GetAllInfos()
+        {
+            return await _context.SliderInfo.OrderByDescending(si => si.Id).ToListAsync();
+        }
+
         public async Task<SliderInfo> GetInfo()
         {
-            return await _context.SliderInfo.FirstOrDefaultAsync();
+            return await _context.SliderInfo.OrderByDescending(si => si.Id).FirstOrDefaultAsync();
+        }
+
+        public async Task<SliderInfo> GetInfoById(int? id)
+        {
+            return await _context.SliderInfo.FirstOrDefaultAsync(si => si.Id == id);
+
         }
     }
 }

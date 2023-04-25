@@ -35,6 +35,9 @@
     <None Remove="Areas\Admin\Views\Expert\" />
     <None Remove="Helpers\" />
     <None Remove="Areas\Admin\Views\BlogPost\" />
+    <None Remove="Areas\Admin\Views\SliderInfo\" />
+    <None Remove="Areas\Admin\ViewModels\" />
+    <None Remove="Areas\Admin\Views\Person\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Models\" />
@@ -63,6 +66,9 @@
     <Folder Include="Areas\Admin\Views\Expert\" />
     <Folder Include="Helpers\" />
     <Folder Include="Areas\Admin\Views\BlogPost\" />
+    <Folder Include="Areas\Admin\Views\SliderInfo\" />
+    <Folder Include="Areas\Admin\ViewModels\" />
+    <Folder Include="Areas\Admin\Views\Person\" />
   </ItemGroup>
   <ItemGroup>
     <Content Remove="wwwroot\" />

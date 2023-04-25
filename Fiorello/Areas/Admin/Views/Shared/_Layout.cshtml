@@ -293,22 +293,36 @@
                         </a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" asp-area="Admin" asp-controller="Expert" asp-action="Index">
-                            <span class="icon-bg"><i class="mdi mdi-account-circle"></i></span>
-                            <span class="menu-title">Expert</span>
-                        </a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" asp-area="Admin" asp-controller="Slider" asp-action="Index">
+                        <a class="nav-link" data-bs-toggle="collapse" href="#slider" aria-expanded="false" aria-controls="ui-basic">
                             <span class="icon-bg"><i class="mdi mdi-buffer"></i></span>
-                            <span class="menu-title">Slider</span>
+                            <span class="menu-title">Sliders</span>
+                            <i class="menu-arrow"></i>
                         </a>
+                        <div class="collapse" id="slider">
+                            <ul class="nav flex-column sub-menu">
+                                <li class="nav-item"> <a class="nav-link" asp-area="Admin" asp-controller="Slider" asp-action="Index">Slider</a></li>
+                                <li class="nav-item"> <a class="nav-link" asp-area="Admin" asp-controller="SliderInfo" asp-action="Index">Slider Info</a></li>
+                            </ul>
+                        </div>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" asp-area="Admin" asp-controller="BlogPost" asp-action="Index">
                             <span class="icon-bg"><i class="mdi mdi-blogger"></i></span>
                             <span class="menu-title">Blog Post</span>
                         </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" data-bs-toggle="collapse" href="#expert" aria-expanded="false" aria-controls="ui-basic">
+                            <span class="icon-bg"><i class="mdi mdi-account-circle"></i></span>
+                            <span class="menu-title">Expert</span>
+                            <i class="menu-arrow"></i>
+                        </a>
+                        <div class="collapse" id="expert">
+                            <ul class="nav flex-column sub-menu">
+                                <li class="nav-item"> <a class="nav-link" asp-area="Admin" asp-controller="Expert" asp-action="Index">Expert</a></li>
+                                <li class="nav-item"> <a class="nav-link" asp-area="Admin" asp-controller="Person" asp-action="Index">Person</a></li>
+                            </ul>
+                        </div>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="pages/icons/mdi.html">
