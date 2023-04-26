@@ -68,6 +68,18 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvRXhwZXJ0L0luZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Users/ali200119/Desktop/Slider-update_Multiple-upload_Ajax-practice_Ckeditor/Fiorello/Areas/Admin/Views/Person/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUGVyc29uL0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ali200119/Desktop/Slider-update_Multiple-upload_Ajax-practice_Ckeditor/Fiorello/Areas/Admin/Views/Person/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUGVyc29uL0RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ali200119/Desktop/Slider-update_Multiple-upload_Ajax-practice_Ckeditor/Fiorello/Areas/Admin/Views/Person/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUGVyc29uL0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/ali200119/Desktop/Slider-update_Multiple-upload_Ajax-practice_Ckeditor/Fiorello/Areas/Admin/Views/Person/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUGVyc29uL0luZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 

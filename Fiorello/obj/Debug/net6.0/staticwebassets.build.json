@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "g9CoeNhBWJjk/ehRtxD4QoPO/VCW/SbHQtvluFdzH8Y=",
+  "Hash": "7JXqeNnPLHPNcHoOl7ewABTwIQ09fvv9cO81k0BT9NI=",
   "Source": "Fiorello",
   "BasePath": "_content/Fiorello",
   "Mode": "Default",
@@ -22812,6 +22812,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/css/style.css.map"
+    },
+    {
+      "Identity": "/Users/ali200119/Desktop/Slider-update_Multiple-upload_Ajax-practice_Ckeditor/Fiorello/wwwroot/img/6f63fa22-06bc-42ba-bb91-0f09938a32c3_Marvel's Spider-Man (3).jpeg",
+      "SourceId": "Fiorello",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ali200119/Desktop/Slider-update_Multiple-upload_Ajax-practice_Ckeditor/Fiorello/wwwroot/",
+      "BasePath": "_content/Fiorello",
+      "RelativePath": "img/6f63fa22-06bc-42ba-bb91-0f09938a32c3_Marvel's Spider-Man (3).jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/img/6f63fa22-06bc-42ba-bb91-0f09938a32c3_Marvel's Spider-Man (3).jpeg"
     },
     {
       "Identity": "/Users/ali200119/Desktop/Slider-update_Multiple-upload_Ajax-practice_Ckeditor/Fiorello/wwwroot/img/blog-feature-img-1.jpg",

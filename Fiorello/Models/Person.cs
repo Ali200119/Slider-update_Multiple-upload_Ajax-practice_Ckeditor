@@ -19,6 +19,6 @@ namespace Fiorello.Models
 
 		public int ExpertId { get; set; } = 1;
 
-		public Expert Expert { get; set; }
+		public Expert? Expert { get; set; }
 	}
 }
